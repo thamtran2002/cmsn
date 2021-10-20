@@ -11,12 +11,12 @@ a {
 
 .page__main {
     /* Ảnh nền của trang đầu tiên nếu bạn muốn đổi thì đổi tại đây */
-    background-image: url("../img/background.png");
+    background-image: url("../img/hpbd2021p2.jpg");
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     background-size: cover;
-    background-position-y: -18rem;
+    /* background-position-y: -16rem; */
 }
 .buttons {
     display: flex;
